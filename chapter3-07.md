@@ -7,7 +7,7 @@
 
 Combine the ``||agent.agent place foward||`` block with the ``||agent.agent move forward by 1||`` block to have the agent place the block!
 
-After pressing ![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-stg-en/main/images/playbutton.png) at the bottom right, press the 't' key and enter 'run' to run the program!
+After pressing ![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-prd-en/main/images/playbutton.png) at the bottom right, press the 't' key and enter 'run' to run the program!
 
 ```ghost
     player.onChat("run", function () {

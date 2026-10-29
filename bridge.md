@@ -5,7 +5,7 @@
 
 ## Let's use the agent to build freely!
 
-After pressing the ![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-stg-en/main/images/playbutton.png) button at the bottom right, press the T key and type "run" to execute the program!
+After pressing the ![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-prd-en/main/images/playbutton.png) button at the bottom right, press the T key and type "run" to execute the program!
 
 
 ```ghost

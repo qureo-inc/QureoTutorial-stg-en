@@ -7,7 +7,7 @@
 
 This time we'll use the ``||loops.repeat ~ times do||`` block! What do you think you can put inside the “repeat 8 times” to make a staircase?
 
-After that, press the button on the bottom right![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-stg-en/main/images/playbutton.png) to start the program!
+After that, press the button on the bottom right![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-prd-en/main/images/playbutton.png) to start the program!
 
 ```ghost
 for (let index = 0; index < 4; index++) {

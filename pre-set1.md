@@ -11,7 +11,7 @@ we'll use the ``||agent. agent place forward||`` block!
 
 Take the block from the left and put it in the ``||loops.on start||`` box!
 
-After that, press the button on the bottom right![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-stg-en/main/images/playbutton.png) to start the program!
+After that, press the button on the bottom right![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-prd-en/main/images/playbutton.png) to start the program!
 
 ```ghost
 hiragana_agent.place(FORWARD)

@@ -15,7 +15,7 @@ This time we'll use the following block!
 
 ``||loop.break||``
 
-After pressing [](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-stg-en/main/images/playbutton.png) at the bottom right, press the 't' key and enter 'run' to run the program!
+After pressing [](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-prd-en/main/images/playbutton.png) at the bottom right, press the 't' key and enter 'run' to run the program!
 
 ```template
 player.onChat("run", function () {

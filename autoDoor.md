@@ -4,7 +4,7 @@
 
 The program is already complete, so you just need to run it!
 
-Then, press the play button at the bottom right![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-stg-en/main/images/playbutton.png) and the program will start running!
+Then, press the play button at the bottom right![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-prd-en/main/images/playbutton.png) and the program will start running!
 
 
 ```ghost

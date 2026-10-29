@@ -7,7 +7,7 @@
 
 ``||agent.agent place forward||`` blocks and``||agent.agent move forward by 1||`` blocks to get the agent to place blocks! To make the agent move in a different direction, click on the “forward” part and a menu will appear where you can choose!
 
-After that, press the button on the bottom right![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-stg-en/main/images/playbutton.png) to start the program!
+After that, press the button on the bottom right![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-prd-en/main/images/playbutton.png) to start the program!
 
 ```ghost
 hiragana_agent.place(FORWARD)

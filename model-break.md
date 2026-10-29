@@ -5,7 +5,7 @@
 
 ## Let's move the agent!
 
-Let's try to run the program by pressing ![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-stg-en/main/images/playbutton.png)
+Let's try to run the program by pressing ![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-prd-en/main/images/playbutton.png)
 
 
 
