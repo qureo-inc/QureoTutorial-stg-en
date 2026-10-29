@@ -7,7 +7,7 @@
 
 ``||agent.agent place forward||`` and ``||agent.agent move forward by 1||`` blocks, and have the agent place blocks! How far should the agent move to reach the blue block? After clicking on the “1” part, enter a number to move the agent that many blocks!
 
-Then, if you click on the right side![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png), the program will run!
+Then, if you click on the right side![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-prd-en/main/images/playbutton.png), the program will run!
 
 ```ghost
 hiragana_agent.place(FORWARD)

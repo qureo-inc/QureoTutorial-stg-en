@@ -9,7 +9,7 @@
 
 ``||agent.agent place forward||`` block and``||agent.agent move forward by 1||`` block. Let's get the agent to place a block! Which block will be on top?
 
-After that, press the button on the bottom right![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png) to start the program!
+After that, press the button on the bottom right![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-prd-en/main/images/playbutton.png) to start the program!
 
 ```ghost
 hiragana_agent.place(FORWARD)

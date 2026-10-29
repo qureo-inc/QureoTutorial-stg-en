@@ -4,7 +4,7 @@
 
 The program is already complete, so you just need to run it!
 
-After that, press the button on the bottom right![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png) to start the program!
+After that, press the button on the bottom right![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-prd-en/main/images/playbutton.png) to start the program!
 
 ```ghost
 
