@@ -4,7 +4,7 @@
 
 The program is already complete, so all you need to do is run it!
 
-After that, press the button on the bottom right ![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png) to start the program!
+After that, press the button on the bottom right ![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-stg-en/main/images/playbutton.png) to start the program!
 
 ```ghost
     hiragana_agent.destroy(DOWN)

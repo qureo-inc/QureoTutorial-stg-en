@@ -31,4 +31,4 @@ Minecraft内の画面で（＝POLTAに遷移することなく）、新たな知
 
 4. GitHub Actionsが実行されるので、終わるまで待機します。
 
-5. ビルドが完了したら、<https://minecraft.makecode.com/#tutorial:https://github.com/camp-minecraft/TechkidsCampTutorial/[チュートリアルファイルの名前]>にチュートリアルがデプロイされています！
+5. ビルドが完了したら、<https://minecraft.makecode.com/#tutorial:https://github.com/qureo-inc/QureoTutorial-stg-en/[チュートリアルファイルの名前]>にチュートリアルがデプロイされています！

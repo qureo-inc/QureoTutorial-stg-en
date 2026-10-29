@@ -10,7 +10,7 @@ This time we'll use the following block!
 ``||agent.agent destroy 〇||``
 ``||agent.agent.move 〇  by〇||``
 
-After pressing [](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png) at the bottom right, press the 't' key and enter 'run' to run the program!
+After pressing [](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-stg-en/main/images/playbutton.png) at the bottom right, press the 't' key and enter 'run' to run the program!
 
 ```template
 player.onChat("run", function () {

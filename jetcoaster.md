@@ -4,7 +4,7 @@
 
 The program is already complete, so all you need to do is run it!
 
-After that, click the play button on the bottom right![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png) to execute the program!
+After that, click the play button on the bottom right![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-stg-en/main/images/playbutton.png) to execute the program!
 
 ```ghost
     for (let index = 0; index < 15; index++) {

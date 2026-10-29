@@ -7,7 +7,7 @@
 
 This time we'll use ``||loops.repeat ~ times do||`` blocks! What kind of movement should we do four times?
 
-After that, press the button on the bottom right![](https://raw.githubusercontent.com/camp-minecraft/TechkidsCampTutorial/master/images/playbutton.png) to start the program!
+After that, press the button on the bottom right![](https://raw.githubusercontent.com/qureo-inc/QureoTutorial-stg-en/main/images/playbutton.png) to start the program!
 
 ```ghost
 for (let index = 0; index < 4; index++) {
